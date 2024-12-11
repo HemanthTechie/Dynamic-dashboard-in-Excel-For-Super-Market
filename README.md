@@ -1,5 +1,5 @@
-# Dynamic-dashboard-in-Excel-For-Super-Market
-**Project on Excel Dash board for Super Market**
+# Dynamic-dashboard-in-Excel-For-Hyper-Market
+**Project on Excel Dash board for Hyper Market**
 
 This interactive Excel dashboard provides a holistic view of order trends, slot-wise analysis, and discounts. It combines multiple visualizations, such as pie charts, bar graphs, and line charts, to highlight significant patterns and metrics.
 ![image](https://github.com/user-attachments/assets/bc2bcfab-84ab-4c26-a9fb-d99713eeb195)
